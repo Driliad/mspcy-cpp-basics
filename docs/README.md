@@ -1,0 +1,4 @@
+- [Установка расширений](./extensions-install.md)
+- [Переключение языка Visual Studio Code](./guides/language-switch.md)
+- [Запуск активного файла](./guides/file-run.md)
+- [Изменение настроек](./guides/settings.md)
